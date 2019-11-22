@@ -1,0 +1,45 @@
+.namesec{
+	font-family: 'Permanent Marker', cursive;
+}
+
+.namesechin{
+	font-family: 'Kalam', cursive;
+}
+
+.dev-icons {
+    font-size: 2rem;
+	color: #868e96;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 50px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  color : #bd5d38;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.list-inline {
+    padding-left: 0;
+    list-style: none;
+}
+dl, ol, ul {
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
